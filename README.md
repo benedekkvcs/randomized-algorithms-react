@@ -26,13 +26,13 @@ The goal of the application is to let users:
 - Support for **multi-edges** (multigraphs), required for correct Karger behavior.
 - Nodes generated in a circular layout for clarity.
 
-### ✔ Random Graph Generation
+### Random Graph Generation
 - Users can choose:
   - number of nodes  
   - edge probability  
 - The graph is laid out automatically.
 
-### ✔ Karger Algorithm Framework (Work in Progress)
+### Karger Algorithm Framework (Work in Progress)
 - Runs a *step-by-step* version of the Karger contraction algorithm.
 - Stores intermediate states.
 - Nodes merge visually during contraction.
